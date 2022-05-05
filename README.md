@@ -52,8 +52,8 @@ End the verilog program using keyword endmodule.
 ## Program:
 ```
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: Monisha T
-RegisterNumber: 212221240029
+Developed by: pragtheesvaran AB
+RegisterNumber: 212221240039
 
 HALF SUBRACTOR:
 
